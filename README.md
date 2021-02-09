@@ -1,2 +1,2 @@
-# Self-Driving-Car
+Self-Driving Cars Specialization
 Coursera course
