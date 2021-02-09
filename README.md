@@ -1,2 +1,2 @@
 # Self-Driving-Car
-Coursera
+Coursera course
